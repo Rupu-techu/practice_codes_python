@@ -1,0 +1,3 @@
+l=rupsa
+l.isalpha()
+
