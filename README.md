@@ -95,9 +95,6 @@ Core Python Programming
 
 DSA Implementation in Python
 
-Writing Clean, Readable Code
-
-Debugging via Terminal
 
 💼 Placement Relevance
 
